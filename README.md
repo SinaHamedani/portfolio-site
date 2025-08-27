@@ -2,7 +2,7 @@
 
 This is a personal portfolio website hosted on an AWS EC2 instance. It's built to showcase my skills in cloud infrastructure, Linux server management, and web hosting using real AWS resources.
 
-Live site: http://YOUR_PUBLIC_IP
+Live site: http://54.219.42.39
 
 ---
 
@@ -45,8 +45,8 @@ portfolio-site/
 
 ## Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/SinaHamedani
+- LinkedIn: https://www.linkedin.com/in/sina-rafizadeh-hamedani-1485091b6/
 
 ---
 
